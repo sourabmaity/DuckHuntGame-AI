@@ -1,4 +1,4 @@
-<b> DuckHuntGame-AI</b> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 style="font-size:10vw"> DuckHuntGame-<img src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/ai.gif" width=40 height=40 />  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/DuckHunt.png" >
 
 # Train Custom Model:
@@ -23,7 +23,10 @@
 9. Train YOLOv5s on custom_data for min 90 epochs
 10. Download runs/train/exp2/weights/last.pt or runs/train/exp2/weights/best.pt
 
-## <div align="center">Quick Start Examples</div>
+<img alt="Coding Gif" src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/duck-hunt.gif" height="200" align="right"/>
+<br/>
+
+## <div align="center">Quick Start Examples</div> 
 
 <details open>
 <summary>Install</summary>
@@ -37,6 +40,7 @@
 $ git clone https://github.com/ultralytics/yolov5
 $ cd yolov5
 $ pip install -r requirements.txt
+$ pip install PyAutoGUI
 ```
 
 </details>
