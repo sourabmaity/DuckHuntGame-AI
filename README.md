@@ -41,6 +41,7 @@ $ git clone https://github.com/ultralytics/yolov5
 $ cd yolov5
 $ pip install -r requirements.txt
 $ pip install PyAutoGUI
+$ git clone https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/last.pt
 ```
 
 </details>
@@ -105,27 +106,15 @@ cv2.destroyAllWindows()
 For program bugs and issues or any types of suggestions [mail](mailto:maitysourab@gmail.com) me.
 
 <div align="center">
-    <a href="https://github.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
+   <a href = "https://www.linkedin.com/in/sourab-maity-4551061b8/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+   <img width="3%" />
+   <a href = "https://twitter.com/maity_sourab"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+    <img width="3%" />
+    <a href="https://github.com/SOURAB-BAPPA">
+        <img src="https://img.icons8.com/nolan/64/github.png" width="5%"/>
     </a>
     <img width="3%" />
-    <a href="https://www.linkedin.com/company/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://twitter.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://youtube.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.facebook.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.instagram.com/ultralytics/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
+    <a href="https://stackoverflow.com/users/13909768/sourab-maity">
+        <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
     </a>
 </div>
