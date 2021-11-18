@@ -102,6 +102,12 @@ cv2.destroyAllWindows()
 [Support video](https://www.youtube.com/watch?v=GRtgLlwxpc4)
  
 </details>
+<details close>
+<summary>Load YOLOv5</summary>
+  
+[Load YOLOv5 from PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36)
+ 
+</details>
 
 For program bugs and issues or any types of suggestions [mail](mailto:maitysourab@gmail.com) me.
 
