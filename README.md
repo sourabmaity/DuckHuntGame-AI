@@ -1,5 +1,7 @@
 <h1 style="font-size:10vw"> DuckHuntGame-<img src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/ai.gif" width=40 height=40 />  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/DuckHunt.png" >
+   
+[Video](https://photos.app.goo.gl/ensQAaN13FhL1gGY6)
 
 # Train Custom Model:
 1. Gather some [Duck Hunt Game](https://duckhuntjs.com/index.html) images (min 100 img)
