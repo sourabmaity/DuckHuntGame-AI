@@ -25,6 +25,19 @@
 9. Train YOLOv5s on custom_data for min 90 epochs
 10. Download runs/train/exp2/weights/last.pt or runs/train/exp2/weights/best.pt
 
+ 
+Then, your directory structure should look something like this
+
+```
+DuckHuntGame/
+└─ images/
+   ├─ train/
+   └─ val/
+└─ labels/
+   ├─ train/
+   └─ val/
+```
+
 <img alt="Coding Gif" src="https://github.com/SOURAB-BAPPA/DuckHuntGame-AI/blob/main/duck-hunt.gif" height="200" align="right"/>
 <br/>
 
